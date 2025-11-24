@@ -1,0 +1,13 @@
+{
+  "title": "Shabnam Rani - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "Shabnam Rani",
+  "keywords": "SDLC, Agile (Scrum), Waterfall, Requirements Gathering, Business Process Modeling, Workflow Automation, Risk Assessment, Process Optimization, User Stories, Use Cases, Business Requirements Document (BRD), Functional Requirement Document (FRD), System Requirement Specifications (SRS), MS Project, MS Excel, MS SharePoint, MS Access, Tableau, Power BI, Visual Studio, Microsoft Visio, Cost/Benefit Analysis, Impact Analysis, GAP Analysis, Risk Analysis, SWOT Analysis, Workflow Analysis, Jira, HP Quality Center, A/B Testing, JAD, Rational ClearQuest, RTM, UAT, CRM, KPIs, Python Scripting, SQL",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}

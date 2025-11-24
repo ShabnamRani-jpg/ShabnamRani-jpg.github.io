@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "Master of Science I Administration with Concentration of Digital Management",
+      "institution": "Central Michigan University, Mount Pleasant, Michigan, USA",
+      "period": "Dec 2024",
+      "description": "Master of Science I Administration with Concentration of Digital Management",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "degree": "Bachelor of Science in Medical",
+      "institution": "Maharishi Markandeshwar University, Mullana, Ambala, Haryana, India",
+      "period": "May 2019",
+      "description": "Bachelor of Science in Medical",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

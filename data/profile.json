@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Sarah Chen",
+    "title": "UX Designer",
+    "bio": "Designing intuitive and delightful user experiences for digital products."
+  },
+  "contact": {
+    "email": "sarah.chen@email.com",
+    "phone": "+1 (555) 345-6789",
+    "githubUsername": "sarahchen",
+    "linkedin": "https://linkedin.com/in/sarahchen",
+    "dribbble": "https://dribbble.com/sarahchen"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Sarah Chen - Portfolio",
+    "description": "UX Designer Portfolio"
+  }
+}

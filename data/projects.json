@@ -1,0 +1,154 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "sql_insurance_analysis",
+      "description": "Comprehensive project exploring software design patterns",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "PLpgSQL"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/ShabnamRani-jpg/sql_insurance_analysis",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "PLpgSQL"
+      }
+    },
+    {
+      "title": "rpa-in-python",
+      "description": "Practice application demonstrating full-stack development skills",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/ShabnamRani-jpg/rpa-in-python",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "customer-trends-data-analysis-sql-python-powerbi",
+      "description": "Portfolio project showcasing development capabilities",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/ShabnamRani-jpg/customer-trends-data-analysis-sql-python-powerbi",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "data-analytics-customer-segmentation",
+      "description": "Hands-on learning experience with modern frameworks",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/ShabnamRani-jpg/data-analytics-customer-segmentation",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "etl-validation-with-python-scripting",
+      "description": "Educational project for mastering software architecture",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/ShabnamRani-jpg/etl-validation-with-python-scripting",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "accountill",
+      "description": "Learning project built with modern web technologies",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Dockerfile",
+        "Procfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/ShabnamRani-jpg/accountill",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "insurance-analytics-powerbi",
+      "description": "Personal project for exploring modern development practices",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/ShabnamRani-jpg/insurance-analytics-powerbi",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": ""
+      }
+    }
+  ]
+}
