@@ -1,23 +1,41 @@
 {
-  "tagline": "Building the future, one line of code at a time.",
+  "text": "Let's connect and build something great together",
+  "tagline": "Business Analyst | Data-Driven Insights | Process Optimization",
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/in/shabnam-rani-413544171",
       "platform": "LinkedIn",
       "icon": "fab fa-linkedin"
-    }
-  ],
-  "copyright": {
-    "text": "© 2025 Shabnam Rani. All rights reserved."
-  },
-  "links": [
-    {
-      "href": "#",
-      "text": "Privacy Policy"
     },
     {
-      "href": "#",
-      "text": "Terms of Service"
+      "url": "https://github.com/ShabnamRani-jpg",
+      "platform": "GitHub",
+      "icon": "fab fa-github"
+    },
+    {
+      "url": "mailto:shabnamr214@gmail.com",
+      "platform": "Email",
+      "icon": "fas fa-envelope"
+    },
+    {
+      "url": "tel:+15174021656",
+      "platform": "Phone",
+      "icon": "fas fa-phone"
+    }
+  ],
+  "copyright": "© 2025 Shabnam Rani. All rights reserved.",
+  "links": [
+    {
+      "href": "#about",
+      "text": "About"
+    },
+    {
+      "href": "#portfolio",
+      "text": "Projects"
+    },
+    {
+      "href": "#contact",
+      "text": "Contact"
     }
   ]
 }

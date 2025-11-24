@@ -1,73 +1,71 @@
 {
   "sectionTitle": "Skills & Technologies",
+  "subtitle": "Technologies and tools I work with",
   "categories": [
     {
-      "category": "Technical Skills",
-      "icon": "fas fa-code",
-      "color": "#667eea",
+      "name": "Methodologies",
+      "icon": "fas fa-project-diagram",
       "skills": [
-        "SDLC",
-        "Agile (Scrum)",
-        "Waterfall",
-        "Requirements Gathering",
-        "Business Process Modeling",
-        "Workflow Automation",
-        "Risk Assessment",
-        "Process Optimization",
-        "User Stories",
-        "Use Cases",
-        "Business Requirements Document (BRD)",
-        "Functional Requirement Document (FRD)",
-        "System Requirement Specifications (SRS)",
-        "MS Project",
-        "MS Excel",
-        "MS SharePoint",
-        "MS Access",
-        "Tableau",
-        "Power BI",
-        "Visual Studio",
-        "Microsoft Visio",
-        "Cost/Benefit Analysis",
-        "Impact Analysis",
-        "GAP Analysis",
-        "Risk Analysis",
-        "SWOT Analysis",
-        "Workflow Analysis",
-        "Jira",
-        "HP Quality Center",
-        "A/B Testing",
-        "JAD",
-        "Rational ClearQuest",
-        "RTM",
-        "UAT",
-        "CRM",
-        "KPIs"
+        {"name": "SDLC", "level": 95},
+        {"name": "Agile (Scrum)", "level": 92},
+        {"name": "Waterfall", "level": 88},
+        {"name": "Requirements Gathering", "level": 95},
+        {"name": "Business Process Modeling", "level": 90}
       ]
     },
     {
-      "category": "Tools & Frameworks",
-      "icon": "fas fa-tools",
-      "color": "#764ba2",
+      "name": "Analysis Skills",
+      "icon": "fas fa-chart-line",
       "skills": [
-        "Visual Studio",
-        "Microsoft Visio",
-        "Cost/Benefit Analysis",
-        "Impact Analysis",
-        "GAP Analysis",
-        "Risk Analysis",
-        "SWOT Analysis",
-        "Workflow Analysis",
-        "Jira",
-        "HP Quality Center",
-        "A/B Testing",
-        "JAD",
-        "Rational ClearQuest",
-        "RTM",
-        "UAT",
-        "CRM",
-        "KPIs",
-        "Python Scripting",
-        "SQL"
+        {"name": "GAP Analysis", "level": 92},
+        {"name": "Risk Analysis", "level": 90},
+        {"name": "SWOT Analysis", "level": 88},
+        {"name": "Cost/Benefit Analysis", "level": 90},
+        {"name": "Impact Analysis", "level": 88},
+        {"name": "Workflow Analysis", "level": 92}
+      ]
+    },
+    {
+      "name": "Languages & Databases",
+      "icon": "fas fa-database",
+      "skills": [
+        {"name": "SQL", "level": 92},
+        {"name": "Python Scripting", "level": 85},
+        {"name": "Data Profiling", "level": 88},
+        {"name": "ETL Validation", "level": 85}
+      ]
+    },
+    {
+      "name": "BI & Visualization",
+      "icon": "fas fa-chart-bar",
+      "skills": [
+        {"name": "Power BI", "level": 92},
+        {"name": "Tableau", "level": 88},
+        {"name": "Microsoft Visio", "level": 90},
+        {"name": "MS Excel", "level": 95}
+      ]
+    },
+    {
+      "name": "Project Management",
+      "icon": "fas fa-tasks",
+      "skills": [
+        {"name": "Jira", "level": 92},
+        {"name": "MS Project", "level": 88},
+        {"name": "HP Quality Center", "level": 85},
+        {"name": "Rational ClearQuest", "level": 80},
+        {"name": "RTM", "level": 90}
+      ]
+    },
+    {
+      "name": "Documentation",
+      "icon": "fas fa-file-alt",
+      "skills": [
+        {"name": "BRD", "level": 95},
+        {"name": "FRD", "level": 95},
+        {"name": "SRS", "level": 92},
+        {"name": "User Stories", "level": 95},
+        {"name": "Use Cases", "level": 92},
+        {"name": "UAT Test Cases", "level": 90}
       ]
     }
   ]

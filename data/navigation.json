@@ -1,11 +1,11 @@
 {
   "brand": {
     "name": "Shabnam Rani",
-    "href": "#home"
+    "href": "#hero"
   },
   "menuItems": [
     {
-      "href": "#home",
+      "href": "#hero",
       "icon": "fas fa-home",
       "text": "Home"
     },
@@ -20,7 +20,12 @@
       "text": "Experience"
     },
     {
-      "href": "#projects",
+      "href": "#education",
+      "icon": "fas fa-graduation-cap",
+      "text": "Education"
+    },
+    {
+      "href": "#portfolio",
       "icon": "fas fa-project-diagram",
       "text": "Projects"
     },
