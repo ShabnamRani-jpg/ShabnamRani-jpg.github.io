@@ -347,8 +347,25 @@ async function loadEducation() {
     try {
         const response = await fetch('data/education.json');
         const data = await response.json();
-        // Education section - may not be displayed in this template
-        console.log('Education data loaded:', data);
+
+        const titleElement = document.getElementById('education-title');
+        if (titleElement) {
+            titleElement.textContent = data.sectionTitle;
+        }
+
+        const gridContainer = document.getElementById('education-grid');
+        if (gridContainer && data.education) {
+            gridContainer.innerHTML = data.education.map(edu => `
+                <div class="education-card">
+                    <div class="education-icon">
+                        <i class="${edu.icon || 'fas fa-graduation-cap'}"></i>
+                    </div>
+                    <h3 class="education-degree">${edu.degree}</h3>
+                    <p class="education-institution">${edu.institution}</p>
+                    <p class="education-period">${edu.period}</p>
+                </div>
+            `).join('');
+        }
     } catch (error) {
         console.error('Error loading education:', error);
     }

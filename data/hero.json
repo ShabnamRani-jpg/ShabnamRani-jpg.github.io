@@ -3,12 +3,12 @@
   "name": "Shabnam Rani",
   "title": "Business Analyst",
   "tagline": "Business Analyst",
-  "summary": "Welcome to my portfolio",
+  "summary": "Driving digital transformation and process optimization in insurance & risk domains with data-driven insights",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
       "color": "#667eea",
-      "text": "2+ Years Experience"
+      "text": "3+ Years Experience"
     },
     {
       "icon": "fas fa-project-diagram",
@@ -18,20 +18,20 @@
     {
       "icon": "fas fa-code",
       "color": "#f093fb",
-      "text": "38+ Technologies"
+      "text": "30+ Technologies"
     }
   ],
   "cta": {
     "buttons": [
       {
-        "href": "#projects",
+        "href": "#portfolio",
         "type": "primary",
         "icon": "fas fa-folder-open",
         "text": "View Projects"
       },
       {
         "href": "#contact",
-        "type": "secondary",
+        "type": "outline",
         "icon": "fas fa-envelope",
         "text": "Contact Me"
       }
@@ -42,6 +42,11 @@
       "url": "https://www.linkedin.com/in/shabnam-rani-413544171",
       "platform": "LinkedIn",
       "icon": "fab fa-linkedin"
+    },
+    {
+      "url": "https://github.com/ShabnamRani-jpg",
+      "platform": "GitHub",
+      "icon": "fab fa-github"
     }
   ],
   "scrollIndicator": {
